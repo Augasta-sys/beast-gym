@@ -3,7 +3,7 @@ import { useRef } from "react";
 import Schedule1 from "../assets/Images/Schedule1.png";
 import Schedule2 from "../assets/Images/Schedule2.png";
 import Schedule3 from "../assets/Images/Schedule3.png";
-import Schedule4 from "../assets/Images/schedule4.png";
+import Schedule4 from "../assets/Images/Schedule4.png";
 import Schedule5 from "../assets/Images/Schedule5.png";
 import Schedule6 from "../assets/Images/Schedule6.png";
 import Schedule7 from "../assets/Images/Schedule7.png";
