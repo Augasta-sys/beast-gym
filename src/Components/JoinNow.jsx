@@ -1,6 +1,6 @@
-import icon1 from "../assets/Images/icon1.png";
-import icon2 from "../assets/Images/icon2.png";
-import icon3 from "../assets/Images/icon3.png";
+import Icon1 from "../assets/Images/Icon1.png";
+import Icon2 from "../assets/Images/Icon2.png";
+import Icon3 from "../assets/Images/Icon3.png";
 
 function JoinNow() {
 
@@ -8,7 +8,7 @@ const plans = [
 
 {
 title:"BASIC",
-icon:icon1,
+icon:Icon1,
 price:"$9.99/month",
 features:[
 "PERSONAL TRAINER",
@@ -20,7 +20,7 @@ features:[
 
 {
 title:"PREMIUM",
-icon:icon2,
+icon:Icon2,
 price:"$24.99/month",
 features:[
 "PERSONAL TRAINER",
@@ -32,7 +32,7 @@ features:[
 
 {
 title:"ADVANCED",
-icon:icon3,
+icon:Icon3,
 price:"$14.99/month",
 features:[
 "PERSONAL TRAINER",
