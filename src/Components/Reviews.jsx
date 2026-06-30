@@ -1,7 +1,7 @@
 import { useState } from "react";
 
-import review1 from "../assets/Images/review1.png";
-import review2 from "../assets/Images/review2.png";
+import Review1 from "../assets/Images/Review1.png";
+import Review2 from "../assets/Images/Review2.png";
 
 const reviews = [
 
