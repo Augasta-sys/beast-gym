@@ -61,7 +61,7 @@ return(
 <img src={reviews[current].image} alt=""
 className="w-full h-[450px] rounded-lg object-cover"/>
 
-<img src={review2} alt=""
+<img src={Review2} alt=""
 className="absolute -right-10 top-[45%] w-24 md:w-32"/>
 </div>
 
