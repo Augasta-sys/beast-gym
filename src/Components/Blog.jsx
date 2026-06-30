@@ -113,7 +113,7 @@ className="w-full h-[240px] object-cover"
 <div
 className="relative mt-24 h-[650px] bg-cover bg-center"
 style={{
-backgroundImage:`url(${gallery1})`
+backgroundImage:`url(${Gallery1})`,
 }}
 >
 
