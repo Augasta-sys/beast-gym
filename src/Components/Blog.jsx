@@ -13,19 +13,19 @@ function Blog() {
 const blogs=[
 
 {
-image:blog1,
+image:Blog1,
 title:"Build yourself in hours of exercise everyday for 6 months.",
 desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit."
 },
 
 {
-image:blog2,
+image:Blog2,
 title:"Fat burning cardio workout to keep yourself in shape",
 desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit."
 },
 
 {
-image:blog3,
+image:Blog3,
 title:"Crossfit Guide for beginners: 10 things you must know",
 desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit."
 }
@@ -33,11 +33,11 @@ desc:"Lorem ipsum dolor sit amet consectetur adipisicing elit."
 ];
 
 const gallery=[
-gallery1,
-gallery2,
-gallery3,
-gallery4,
-gallery5
+Gallery1,
+Gallery2,
+Gallery3,
+Gallery4,
+Gallery5
 ]
 
 return(
