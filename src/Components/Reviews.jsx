@@ -7,7 +7,7 @@ const reviews = [
 
 {
 id:1,
-image:review1,
+image:Review1,
 name:"Nell Francis",
 role:"Fitness Member",
 review:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, nesciunt quaerat! Perspiciatis nesciunt minima doloremque dolor error unde architecto deserunt dolorem possimus, hic, quae maiores modi commodi officiis facere reiciendis? Cupiditate excepturi sapiente libero consequuntur nam impedit facere veritatis corporis quasi temporibus, ratione deserunt quod quis consequatur assumenda? Vel animi vitae sit, iure ex quibusdam ut obcaecati incidunt amet voluptatibus ducimus corporis natus cumque inventore veritatis saepe, tempora labore harum suscipit quidem mollitia magni iusto sint. Commodi odio modi repellat!"
@@ -15,7 +15,7 @@ review:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, nesciunt 
 
 {
 id:2,
-image:review1,
+image:Review1,
 name:"Emma Watson",
 role:"Gym Member",
 review:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, nesciunt quaerat! Perspiciatis nesciunt minima doloremque dolor error unde architecto deserunt dolorem possimus, hic, quae maiores modi commodi officiis facere reiciendis? Cupiditate excepturi sapiente libero consequuntur nam impedit facere veritatis corporis quasi temporibus, ratione deserunt quod quis consequatur assumenda? Vel animi vitae sit, iure ex quibusdam ut obcaecati incidunt amet voluptatibus ducimus corporis natus cumque inventore veritatis saepe, tempora labore harum suscipit quidem mollitia magni iusto sint. Commodi odio modi repellat!"
@@ -23,7 +23,7 @@ review:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, nesciunt 
 
 {
 id:3,
-image:review1,
+image:Review1,
 name:"David Lee",
 role:"Fitness Coach",
 review:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, nesciunt quaerat! Perspiciatis nesciunt minima doloremque dolor error unde architecto deserunt dolorem possimus, hic, quae maiores modi commodi officiis facere reiciendis? Cupiditate excepturi sapiente libero consequuntur nam impedit facere veritatis corporis quasi temporibus, ratione deserunt quod quis consequatur assumenda? Vel animi vitae sit, iure ex quibusdam ut obcaecati incidunt amet voluptatibus ducimus corporis natus cumque inventore veritatis saepe, tempora labore harum suscipit quidem mollitia magni iusto sint. Commodi odio modi repellat!"
