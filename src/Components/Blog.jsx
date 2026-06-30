@@ -1,12 +1,12 @@
-import blog1 from "../assets/Images/blog1.png";
-import blog2 from "../assets/Images/blog2.png";
-import blog3 from "../assets/Images/blog3.png";
+import Blog1 from "../assets/Images/Blog1.png";
+import Blog2 from "../assets/Images/Blog2.png";
+import Blog3 from "../assets/Images/Blog3.png";
 
-import gallery1 from "../assets/Images/gallery1.png";
-import gallery2 from "../assets/Images/gallery2.png";
-import gallery3 from "../assets/Images/gallery3.png";
-import gallery4 from "../assets/Images/gallery4.png";
-import gallery5 from "../assets/Images/gallery5.png";
+import Gallery1 from "../assets/Images/Gallery1.png";
+import Gallery2 from "../assets/Images/Gallery2.png";
+import Gallery3 from "../assets/Images/Gallery3.png";
+import Gallery4 from "../assets/Images/Gallery4.png";
+import Gallery5 from "../assets/Images/Gallery5.png";
 
 function Blog() {
 
